@@ -1,5 +1,5 @@
 # PorfolioDAW
-### Porfolio de José Carlos Gómez-Lobo Ramírez
+### Porfolio de José Carlos Goméz-Lobo Ramírez
 
 
 ## Tema 1 GitHub y Markdown
