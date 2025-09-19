@@ -3,3 +3,5 @@
 
 
 ## Tema 1 GitHub y Markdown
+[Diario]()
+[Ejercicios]()
