@@ -12,5 +12,5 @@
 
 ## Tema 3
 [Diario](https://github.com/JosecarlosGlr/enlaces_UD3)  
-[Ejercicios]()
+[Ejercicios](https://github.com/JosecarlosGlr/diario_ud3)
 
