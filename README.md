@@ -11,6 +11,6 @@
 [Ejercicios](https://github.com/JosecarlosGlr/enlaces_UD2)
 
 ## Tema 3
-[Diario](https://github.com/JosecarlosGlr/enlaces_UD3)  
-[Ejercicios](https://github.com/JosecarlosGlr/diario_ud3)
+[Diario](https://github.com/JosecarlosGlr/diario_UD3)  
+[Ejercicios](https://github.com/JosecarlosGlr/enlaces_ud3)
 
