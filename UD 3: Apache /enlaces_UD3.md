@@ -5,4 +5,4 @@
 Documentación de como configurar apache documentado tipo memoria
 ## Ejercicio2
 [Protocolo HTTPS](https://github.com/JosecarlosGlr/ApacheHttps)  
-Documentación de implementación de protocola https en servidor apache2 en ubuntu
+Documentación de implementación de protocolos https en servidor apache2 en ubuntu
