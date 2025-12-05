@@ -7,3 +7,6 @@ Investigación y breve descripción de elementos de Tomcat
 ## Ejercicio2  
 [Identificación de archivos de configuración de Tomcat](https://github.com/JosecarlosGlr/TomcatIdentificacionDeArchivosDeConfiguracion)  
 Identificación de archivos de configuración de Tomcat
+
+## Ejercicio3
+[Desplieque simple de una aplicacion web](https://github.com/JosecarlosGlr/TomcatDespliegueSimpleDeUnaAplicacionWeb)
