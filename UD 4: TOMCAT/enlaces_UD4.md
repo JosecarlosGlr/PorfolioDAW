@@ -10,3 +10,6 @@ Identificación de archivos de configuración de Tomcat
 
 ## Ejercicio3
 [Despliegue simple de una aplicacion web](https://github.com/JosecarlosGlr/TomcatDespliegueSimpleDeUnaAplicacionWeb)
+
+## Ejercicio4
+[Integración de Tomcat y servidor web](https://github.com/JosecarlosGlr/TomcatIntegracionTomcat-ServidorWeb)
