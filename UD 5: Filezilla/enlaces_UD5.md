@@ -17,3 +17,5 @@ Creo el grupo grupo1 con permisos de lectura, escritura y borrado sobre el direc
 
 ## Ejercicio4
 [Configuración de acceso anónimo](https://github.com/JosecarlosGlr/ConfiguracionDeAccesoAnonimo)
+
+Configuré el acceso anónimo creando el usuario anonymous sin contraseña, limitando sus permisos únicamente a lectura sobre el directorio raíz y verificando la conexión exitosa desde un cliente FTP
