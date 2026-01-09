@@ -11,4 +11,6 @@ Diagrama de ciclo de vida de una sesión FTP, identificando el uso del puerto 21
 Instalo FileZilla Server, configurando la escucha en el puerto 21 y habilitando su inicio automático en el sistema.
 
 ## Ejercicio3
-[Creación de usuarios y grupos](https://github.com/JosecarlosGlr/CrecionDeUsuarioYGrupos)
+[Creación de usuarios y grupos](https://github.com/JosecarlosGlr/CrecionDeUsuarioYGrupos)  
+
+Creo el grupo grupo1 con permisos de lectura, escritura y borrado sobre el directorio raíz, añadiendo posteriormente dos usuarios (usuario1 y usuario2) que heredan dicha configuración automáticamente.
