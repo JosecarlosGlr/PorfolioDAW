@@ -8,5 +8,5 @@ Diagrama de ciclo de vida de una sesión FTP, identificando el uso del puerto 21
 ## Ejercicioi2
 [Instalación y configuración inical de servidor](https://github.com/JosecarlosGlr/Instalaci-nYConfiguraci-nInicialDeServidor)
 
-
+Instalo FileZilla Server, configurando la escucha en el puerto 21 y habilitando su inicio automático en el sistema.
 
