@@ -19,3 +19,9 @@ Creo el grupo grupo1 con permisos de lectura, escritura y borrado sobre el direc
 [Configuración de acceso anónimo](https://github.com/JosecarlosGlr/ConfiguracionDeAccesoAnonimo)
 
 Configuré el acceso anónimo creando el usuario anonymous sin contraseña, limitando sus permisos únicamente a lectura sobre el directorio raíz y verificando la conexión exitosa desde un cliente FTP
+
+## Ejercicio5
+
+[Pruebas en modo pasivo y activo](https://github.com/JosecarlosGlr/PruebasEnModoActivoYPasivo)
+
+Configuro el rango de puertos pasivos (50000-50100) en el servidor y realizo pruebas de conexión forzando los modos Activo y Pasivo desde el cliente para comparar su funcionamiento
