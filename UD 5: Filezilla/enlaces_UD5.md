@@ -14,3 +14,6 @@ Instalo FileZilla Server, configurando la escucha en el puerto 21 y habilitando 
 [Creación de usuarios y grupos](https://github.com/JosecarlosGlr/CrecionDeUsuarioYGrupos)  
 
 Creo el grupo grupo1 con permisos de lectura, escritura y borrado sobre el directorio raíz, añadiendo posteriormente dos usuarios (usuario1 y usuario2) que heredan dicha configuración automáticamente.
+
+## Ejercicio4
+[Configuración de acceso anónimo](https://github.com/JosecarlosGlr/ConfiguracionDeAccesoAnonimo)
