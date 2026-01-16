@@ -35,3 +35,5 @@ Realicé la conexión mediante el cliente lftp para soportar el cifrado TLS igno
 ## Ejercicio7
 
 [Pruebas con clientes gráficos](https://github.com/JosecarlosGlr/PruebasConClientesGr-ficos)
+
+Configuré una conexión persistente en FileZilla Client con cifrado TLS explícito y realicé transferencias bidireccionales de archivos, verificando el éxito de las operaciones en el registro de estado.
