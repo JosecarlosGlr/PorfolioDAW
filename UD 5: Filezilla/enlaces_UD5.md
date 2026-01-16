@@ -25,3 +25,13 @@ Configuré el acceso anónimo creando el usuario anonymous sin contraseña, limi
 [Pruebas en modo pasivo y activo](https://github.com/JosecarlosGlr/PruebasEnModoActivoYPasivo)
 
 Configuro el rango de puertos pasivos (50000-50100) en el servidor y realizo pruebas de conexión forzando los modos Activo y Pasivo desde el cliente para comparar su funcionamiento
+
+## Ejercicio6
+
+[Pruebas con clientes en línea de comandos](https://github.com/JosecarlosGlr/PruebasConClientesEnL-neaDeComandos)
+
+Realicé la conexión mediante el cliente lftp para soportar el cifrado TLS ignorando el certificado local, y ejecuté con éxito las operaciones de listar, subir y descargar archivos en el servidor.
+
+## Ejercicio7
+
+[Pruebas con clientes gráficos](https://github.com/JosecarlosGlr/PruebasConClientesGr-ficos)
