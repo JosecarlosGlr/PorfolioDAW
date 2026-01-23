@@ -56,4 +56,6 @@ Intenté acceder al servidor FTP mediante un navegador web, confirmando que el s
 
 Configuré el directorio raíz del usuario FTP para que apuntase al DocumentRoot del servidor web Apache (/var/www/html), otorgando los permisos de escritura necesarios. Posteriormente, subí un archivo HTML mediante el cliente FTP y verifiqué su inmediata publicación accediendo a él a través del navegador web vía HTTP.
 
-[Integración de FTP con servidor web](https://github.com/JosecarlosGlr/Integraci-nDeFTPConServidorWeb)
+## Ejercicio11
+
+[Disponibilidad y buenas prácticas](https://github.com/JosecarlosGlr/DisponibilidadYBuenasPracticas)
