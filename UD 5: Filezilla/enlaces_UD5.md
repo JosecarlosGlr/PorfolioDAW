@@ -43,3 +43,9 @@ Configuré una conexión persistente en FileZilla Client con cifrado TLS explíc
 [Configuración de FTP seguro (FTPS)](https://github.com/JosecarlosGlr/Configuraci-nDeFTPseguro-FTPS-)
 
 Generé un certificado X.509 autofirmado en el servidor y configuré la política de usuario para exigir TLS estricto, verificando posteriormente el cifrado activo en el cliente.
+
+## Ejercicio9
+
+[Uso del navegador como cliente FTP](https://github.com/JosecarlosGlr/UsoDelNavegadorComoClienteFTP)
+
+Intenté acceder al servidor FTP mediante un navegador web, confirmando que el soporte nativo es obsoleto (redirige a aplicaciones externas) y que carece de las funciones de seguridad (FTPS) y escritura (subida) que ofrece un cliente dedicado.
