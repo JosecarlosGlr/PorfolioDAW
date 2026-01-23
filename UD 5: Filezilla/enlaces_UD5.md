@@ -49,3 +49,7 @@ Generé un certificado X.509 autofirmado en el servidor y configuré la polític
 [Uso del navegador como cliente FTP](https://github.com/JosecarlosGlr/UsoDelNavegadorComoClienteFTP)
 
 Intenté acceder al servidor FTP mediante un navegador web, confirmando que el soporte nativo es obsoleto (redirige a aplicaciones externas) y que carece de las funciones de seguridad (FTPS) y escritura (subida) que ofrece un cliente dedicado.
+
+## Ejercicio10
+
+[Integración de FTP con servidor web](https://github.com/JosecarlosGlr/Integraci-nDeFTPConServidorWeb)
