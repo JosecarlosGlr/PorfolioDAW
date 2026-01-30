@@ -17,7 +17,8 @@ En esta actividad he verificado el funcionamiento del despliegue en caliente de 
 En esta práctica he configurado un servidor web Apache HTTPD para que actúe como Proxy Inverso delante de Tomcat. El objetivo ha sido redirigir el tráfico del puerto estándar web (80) hacia el puerto de aplicaciones de Tomcat (8080), permitiendo acceder a las aplicaciones Java de forma transparente y segura sin exponer directamente el servidor de aplicaciones.
 
 ## Ejercicio5
-[Configuración de seguridad en Tomcat](https://github.com/JosecarlosGlr/Configuraci-nDeSeguridadEnTomcat)
+[Configuración de seguridad en Tomcat](https://github.com/JosecarlosGlr/Configuraci-nDeSeguridadEnTomcat)  
+En esta práctica he configurado los niveles de seguridad de Apache Tomcat. He gestionado los accesos administrativos mediante la definición de roles y usuarios en el archivo de configuración, y he implementado el cifrado de datos mediante el protocolo HTTPS creando un almacén de claves (*keystore*) y configurando un conector SSL.
 
 ## Ejercicio6
 [Herramientas de administración — Manager y Host Manager](https://github.com/JosecarlosGlr/HerramientasDeAdministraci-n-ManagerYHostManager)
