@@ -13,7 +13,8 @@ Identificación de archivos de configuración de Tomcat
 En esta actividad he verificado el funcionamiento del despliegue en caliente de Tomcat, instalando una aplicación web empaquetada (.war) en el directorio webapps y comprobando cómo el servidor la detecta y ejecuta automáticamente sin necesidad de reiniciar el servicio.
 
 ## Ejercicio4
-[Integración de Tomcat y servidor web](https://github.com/JosecarlosGlr/TomcatIntegracionTomcat-ServidorWeb)
+[Integración de Tomcat y servidor web](https://github.com/JosecarlosGlr/TomcatIntegracionTomcat-ServidorWeb)  
+En esta práctica he configurado un servidor web Apache HTTPD para que actúe como Proxy Inverso delante de Tomcat. El objetivo ha sido redirigir el tráfico del puerto estándar web (80) hacia el puerto de aplicaciones de Tomcat (8080), permitiendo acceder a las aplicaciones Java de forma transparente y segura sin exponer directamente el servidor de aplicaciones.
 
 ## Ejercicio5
 [Configuración de seguridad en Tomcat](https://github.com/JosecarlosGlr/Configuraci-nDeSeguridadEnTomcat)
