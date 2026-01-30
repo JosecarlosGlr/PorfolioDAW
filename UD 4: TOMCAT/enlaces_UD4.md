@@ -24,7 +24,8 @@ En esta práctica he configurado los niveles de seguridad de Apache Tomcat. He g
 [Herramientas de administración — Manager y Host Manager](https://github.com/JosecarlosGlr/HerramientasDeAdministraci-n-ManagerYHostManager)  
 He explorado las herramientas web de Tomcat para gestionar aplicaciones y dominios, confirmando que puedo controlar todo el servidor de forma visual y sencilla
 ## Ejercicio7
-[Pruebas de funcionamiento y rendimiento](https://github.com/JosecarlosGlr/PruebasDeFuncionamientoYRendimiento)
+[Pruebas de funcionamiento y rendimiento](https://github.com/JosecarlosGlr/PruebasDeFuncionamientoYRendimiento)  
+Para esta actividad de pruebas de carga y optimización del rendimiento, he utilizado la herramienta ApacheBench (ab) para medir la capacidad de respuesta del servidor Tomcat bajo diferentes configuraciones.
 ## Ejercicio8
 [Tomcat en contenedores (Docker)](https://github.com/JosecarlosGlr/TomcatEnContenedores-Docker-)
 ## Ejercicio9
