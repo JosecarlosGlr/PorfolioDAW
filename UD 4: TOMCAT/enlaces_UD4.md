@@ -28,5 +28,6 @@ He explorado las herramientas web de Tomcat para gestionar aplicaciones y domini
 Para esta actividad de pruebas de carga y optimización del rendimiento, he utilizado la herramienta ApacheBench (ab) para medir la capacidad de respuesta del servidor Tomcat bajo diferentes configuraciones.
 ## Ejercicio8
 [Tomcat en contenedores (Docker)](https://github.com/JosecarlosGlr/TomcatEnContenedores-Docker-)
+He configurado Tomcat en un contenedor Docker para facilitar el despliegue y la portabilidad de mis aplicaciones. Esto me ha permitido comprobar cómo el aislamiento de contenedores simplifica la gestión frente a una instalación tradicional.
 ## Ejercicio9
 [Documentación final](https://github.com/JosecarlosGlr/Documentaci-nFinalTomcat)
