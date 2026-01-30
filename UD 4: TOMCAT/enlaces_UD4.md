@@ -10,6 +10,7 @@ Identificación de archivos de configuración de Tomcat
 
 ## Ejercicio3
 [Despliegue simple de una aplicacion web](https://github.com/JosecarlosGlr/TomcatDespliegueSimpleDeUnaAplicacionWeb)
+En esta actividad he verificado el funcionamiento del despliegue en caliente de Tomcat, instalando una aplicación web empaquetada (.war) en el directorio webapps y comprobando cómo el servidor la detecta y ejecuta automáticamente sin necesidad de reiniciar el servicio.
 
 ## Ejercicio4
 [Integración de Tomcat y servidor web](https://github.com/JosecarlosGlr/TomcatIntegracionTomcat-ServidorWeb)
