@@ -21,7 +21,8 @@ En esta práctica he configurado un servidor web Apache HTTPD para que actúe co
 En esta práctica he configurado los niveles de seguridad de Apache Tomcat. He gestionado los accesos administrativos mediante la definición de roles y usuarios en el archivo de configuración, y he implementado el cifrado de datos mediante el protocolo HTTPS creando un almacén de claves (*keystore*) y configurando un conector SSL.
 
 ## Ejercicio6
-[Herramientas de administración — Manager y Host Manager](https://github.com/JosecarlosGlr/HerramientasDeAdministraci-n-ManagerYHostManager)
+[Herramientas de administración — Manager y Host Manager](https://github.com/JosecarlosGlr/HerramientasDeAdministraci-n-ManagerYHostManager)  
+He explorado las herramientas web de Tomcat para gestionar aplicaciones y dominios, confirmando que puedo controlar todo el servidor de forma visual y sencilla
 ## Ejercicio7
 [Pruebas de funcionamiento y rendimiento](https://github.com/JosecarlosGlr/PruebasDeFuncionamientoYRendimiento)
 ## Ejercicio8
