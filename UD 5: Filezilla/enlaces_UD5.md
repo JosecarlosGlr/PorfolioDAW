@@ -62,7 +62,7 @@ Configuré el directorio raíz del usuario FTP para que apuntase al DocumentRoot
 
 Configuré los límites de ancho de banda y el sistema de auditoría (logs) en el servidor, y elaboré un documento con recomendaciones de seguridad críticas (copias de seguridad y configuración de firewall/NAT) para entornos de producción.
 
-## Ejercici12
+## Ejercicio12
 [Documentación final](https://github.com/JosecarlosGlr/Documentaci-nFinal)
 
 Un documento final sobre Filezilla. Este incluye:
